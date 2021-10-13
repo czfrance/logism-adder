@@ -1,2 +1,2 @@
-  0       out         result                0
+  0       out         result                1
 
